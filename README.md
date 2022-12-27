@@ -64,9 +64,9 @@ Eskimoz | Apr 2017 - Feb 2018 (Paris)
 - Client management
 
 
-## Education 📚
+## Education 🎓
 
-- Web development bootcamp, Ironhack (Paris, 2019) 🎓
+- Web development bootcamp, Ironhack (Paris, 2019) 
 - MBA in Digital marketing, ESG (Paris, 2016)
 
 ## Personal Interests 🎉
