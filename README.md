@@ -1,11 +1,8 @@
-<div style="display: flex; align-items: center; justify-content: flex-start;">
-  <img src="https://res.cloudinary.com/mrwn211/image/upload/v1672054971/ProfilePictureMerwan.jpg" style="width: 96px; height: 96px; border-radius: 10px; margin-right: 16px; object-fit: cover;">
-  <div style="display: flex; flex-direction: column; align-items: flex-start; justify-content: center;">
-     <div style="font-size: 32px; font-weight: bold; margin: 0;">Merwan Guerrib 👾</div>
-    <div>JavaScript Developer with strong digital marketing foundations 💻</div>
-  </div>
-</div>
-<hr>
+# Merwan Guerrib 👾
+JavaScript Developer with strong digital marketing foundations 💻
+
+---
+
 
 ## Contact Information 📞
 
