@@ -12,7 +12,7 @@ JavaScript Developer with strong digital marketing foundations 💻
 
 ## Summary 💡
 
-A highly motivated JavaScript developer with 3 years of experience in building web applications and a digital marketing background as foundations. Able to work independently but prefers to be part of a team that delivers high-quality, scalable solutions.
+A highly motivated JavaScript developer with 3 years of experience in building web applications and a digital marketing and product vision background. Able to work independently but prefers to be part of a team that delivers high-quality and scalable solutions.
 
 ## Skills 🦾
 
@@ -37,15 +37,16 @@ PayFit | Sept 2022 - Present (Remote)
 - Designed, developed, and deployed new features on a Gatsby website
 - Developed and deployed Lambda functions on AWS
 - Developed and deployed modules in Hubspot design tool
-- Followed team processes, including code review and pull request
+- Followed team processes, including code review and pull requests
 - Proactively sought out opportunities for innovation and implemented new methods to improve team performance
 
 ### Junior JavaScript Developer (Consultant) ☄️
 
 Capgemini | Sept 2019 - Sept 2022 (Issy-les-Moulineaux & Aix-en-Provence)
 
-- Frontend developer for various clients. 
-- Developed in ReactJS (added components to existing interfaces, proof of concepts).- Used Agile and SCRUM methodologies.
+- Frontend developer for various customers. 
+- Developed in ReactJS (added components to existing interfaces, proof of concepts).
+- Used Agile and SCRUM methodologies.
 
 ### Digital Marketer 💥
 
@@ -54,7 +55,7 @@ Galileo Global Education | Feb 2018 - Sept 2019 (Paris)
 - Implemented marketing optimizations to drive traffic and increase prospects
 - Led agile project management for website launches and redesigns
 - Achieved 100% increase in traffic and 40% increase in lead generation
-- Managed a team of 3 interns
+- Managed a team of 3 people
 
 ### SEO Consultant ⚡️
 
@@ -81,5 +82,5 @@ Eskimoz | Apr 2017 - Feb 2018 (Paris)
 - Fluent in English 🇺🇸
 - Available for remote work 🌍
 - Favourite TV shows : The Good Place, Brooklyn 99, Big Bang Theory 📺
-- Favourite book : Léon l'africain by Amin Maalouf 📖
-- Favourite sport : basketball ⛹🏼
+- Favourite book : Léon l'Africain by Amin Maalouf 📖
+- Favourite sport : Basketball ⛹🏼
