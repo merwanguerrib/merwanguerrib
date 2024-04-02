@@ -29,7 +29,7 @@ A highly motivated JavaScript developer with 3 years of experience in building w
 
 ## Professional Experience 💼
 
-### Business Engineer 🔥
+### Software Engineer 🔥
 
 PayFit | Sept 2022 - Present (Remote)
 
