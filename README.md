@@ -9,6 +9,7 @@ JavaScript Developer with strong digital marketing foundations 💻
 - Phone: 0663095776
 - Email: merwanguerrib@gmail.com
 - LinkedIn: https://www.linkedin.com/in/merwanguerrib/
+- Website: merwanguerrib.com
 
 ## Summary 💡
 
