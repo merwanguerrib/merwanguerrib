@@ -13,7 +13,7 @@ JavaScript Developer with strong digital marketing foundations 💻
 
 ## Summary 💡
 
-A highly motivated JavaScript developer with 3 years of experience in building web applications and a digital marketing and product vision background. Able to work independently but prefers to be part of a team that delivers high-quality and scalable solutions.
+A highly motivated JavaScript developer with 6 years of experience in building web applications and a digital marketing and product vision background. Able to work independently but prefers to be part of a team that delivers high-quality and scalable solutions.
 
 ## Skills 🦾
 
