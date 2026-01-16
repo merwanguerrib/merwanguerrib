@@ -1,5 +1,5 @@
 # Merwan Guerrib 👾
-JavaScript Developer with strong digital marketing foundations 💻
+TypeScript Developer with strong digital marketing foundations 💻
 
 ---
 
