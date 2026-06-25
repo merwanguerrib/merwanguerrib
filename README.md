@@ -9,15 +9,15 @@ I build product-led SaaS and AI workflows from zero to production: discovery, ro
 [![Website](https://img.shields.io/badge/Website-merwanguerrib.com-111827?style=flat-square)](https://merwanguerrib.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-merwanguerrib-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/merwanguerrib/)
 [![Email](https://img.shields.io/badge/Email-merwanguerrib%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:merwanguerrib@gmail.com)
-[![SaaS](https://img.shields.io/badge/Live_SaaS-assistant--des--profs.fr-2563EB?style=flat-square)](https://assistant-des-profs.fr)
+[![SaaS](https://img.shields.io/badge/Live_SaaS-syllabi.fr-2563EB?style=flat-square)](https://syllabi.fr)
 
 </div>
 
 ## 🚧 What I am building now
 
-### 🧑‍🏫 [L'assistant des Profs](https://assistant-des-profs.fr) — AI SaaS for teachers
+### 🧑‍🏫 [Syllabi](https://syllabi.fr) — AI SaaS for teachers
 
-Solo founder/product builder on an EdTech SaaS that helps French teachers generate structured pedagogical sequences from official curriculum inputs.
+Solo founder/product builder on an EdTech SaaS that helps French teachers generate structured, Éduscol-aligned pedagogical sequences from official curriculum inputs.
 
 - 🧭 Built solo from discovery to production: teacher interviews, problem framing, MVP scope, roadmap, epics, user stories and acceptance criteria.
 - 🧠 Shipped a multi-LLM product with Anthropic, Gemini, Mistral and OpenAI, using Next.js, React, TypeScript, Supabase/PostgreSQL, Auth and Edge Functions.
@@ -53,7 +53,7 @@ Solo founder/product builder on an EdTech SaaS that helps French teachers genera
 
 ## 🧭 Recent experience
 
-### 🧑‍🏫 Founder & Product Manager — L'assistant des Profs
+### 🧑‍🏫 Founder & Product Manager — Syllabi
 **Jan 2026 - Present**
 
 Building and shipping a multi-LLM EdTech SaaS as a solo founder: product discovery, full-stack delivery, beta feedback loops, credits, feature flags and AI cost monitoring.
@@ -102,7 +102,7 @@ Owned SEO, website redesign and acquisition roadmaps. At Galileo, helped drive +
 
 ## 🔗 A few useful links
 
-- 🧑‍🏫 Live SaaS: [assistant-des-profs.fr](https://assistant-des-profs.fr)
+- 🧑‍🏫 Live SaaS: [syllabi.fr](https://syllabi.fr)
 - 🌐 Portfolio: [merwanguerrib.com](https://merwanguerrib.com/)
 - 🧪 Interactive CV experiment: [AI Cockpit](https://merwanguerrib-cv-easter-egg.tiiny.site/)
 - 💼 LinkedIn: [linkedin.com/in/merwanguerrib](https://www.linkedin.com/in/merwanguerrib/)
