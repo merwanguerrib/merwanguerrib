@@ -25,25 +25,29 @@ Solo founder/product builder on an EdTech SaaS that helps French teachers genera
 - 💳 Launched publicly with a paywall on June 13, 2026, after a beta with 40+ teachers.
 - ⚡ Used Claude Code, Codex, agent skills and structured AI workflows to accelerate research, implementation, documentation and QA.
 
-**Since the public launch** (production data, October 5, 2026):
+**In production** (October 2026):
 
 | Metric | Value |
 |---|---|
-| Self-service sign-ups | 212 (38 in the last week) |
+| Self-service sign-ups since the public launch | 212 |
 | Accounts that signed in | 170 (80%) |
 | Teachers with a successful AI synthesis of their documents | 73 |
 | Teachers who built a full teaching sequence | 53 |
-| Paying customers (one-off credit packs, Stripe) | 8 |
-| AI cost for 203 AI operations (13.1M tokens) | €18.28 |
+| LLM tokens processed | 16,442,197 |
+| Emails sent / delivered / opened | 1,420 / 1,409 (99.2%) / 905 (64%) |
 
-### 📝 Marko: a Markdown editor for teams that work with AI
+### 📝 Marko: the Markdown workspace for teams that work with AI
 
-Started in September 2026, private prototype. AI assistants answer in Markdown, and a plain text editor shows that as raw `#`, `**` and pipes. Marko is a native Mac app where the generated file becomes a working document: visual and source editing, AI edits you review before they apply, PDF export, and a local MCP server so agents can read and write your documents with scoped rights.
+AI now writes the first draft of specs, PRDs, reports and docs, and it writes them in Markdown. Marko turns that output into a document a team can read, correct, review and ship, with AI agents working inside it as permissioned teammates instead of copy-paste sources.
 
-- 🦀 Rust core compiled both natively and to WebAssembly, Tauri 2 desktop shell, React/TypeScript editor.
-- 💾 Byte-exact file round-trips (BOM, line endings, unknown syntax). "Saved" means the edit is committed to a SQLite journal with `synchronous=FULL`, so it survives a crash.
-- 👥 Team workspaces in progress: Rust server on PostgreSQL, conflict review, Stripe billing through a Cloudflare Worker.
-- 📏 About 39k lines of Rust and 25k of TypeScript so far, with sync chaos tests, LLM contract tests and performance budgets checked on a 10 MB document.
+Built solo since September 2026, from product vision to a native macOS app, a collaboration server and a billing-ready website:
+
+- 🖥️ **Native editor that respects your files:** Tauri 2 app with a Rust core compiled to both native code and WebAssembly. Byte-exact round trips across 8 Markdown dialects, and nothing is marked "Saved" until it is in a durable journal. A 400-run crash and save-race bench ends with zero lost revisions.
+- 🤖 **AI you stay in control of:** bring your own key for OpenAI or Anthropic, or run a local model with Ollama. Every AI edit arrives as a proposal you compare and accept. The safety suite passes 138 of 138 cases, including prompt injection hidden in the document.
+- 🔌 **Agents as teammates through MCP:** local and server-side MCP with OAuth (PKCE), per-document grants that can never exceed the user's own rights, full audit, and revocation in under 10 seconds.
+- 👥 **Real-time team workspaces:** Rust and PostgreSQL server with CRDT sync (Yjs), checked by chaos tests over 20 replicas with restarts and compaction. Comments and suggestions are anchored to text and arbitrated by the server.
+- ⚡ **Built for big documents:** a 10,000-file library searched in 2.3 ms (p95), and 10 MB documents open and stay editable.
+- 🌍 **Commercial foundations:** bilingual site on Cloudflare Workers with Stripe checkout and signed licenses, CI on GitHub Actions.
 
 ## 🎨 Stack
 
@@ -78,7 +82,7 @@ Started in September 2026, private prototype. AI assistants answer in Markdown, 
 ### 📝 Founder & Product Engineer · Marko
 **Sept 2026 - Present**
 
-Building a native Markdown editor for Mac in Rust, Tauri and React, with a local MCP server and team workspaces on a Rust/PostgreSQL backend.
+Designing and building the Markdown workspace for AI-assisted teams: a native macOS editor (Rust, Tauri, React), MCP access for AI agents and real-time team workspaces on a Rust/PostgreSQL backend.
 
 ### 🧑‍🏫 Founder & Product Manager · Syllabi
 **Jan 2026 - Present**
